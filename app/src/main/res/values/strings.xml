@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParcelableTutorial</string>
+    <string name="name">Employee Name</string>
+    <string name="technology">Technology</string>
+    <string name="experience">Experience</string>
+    <string name="send">Send</string>
+</resources>
